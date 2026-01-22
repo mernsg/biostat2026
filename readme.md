@@ -12,6 +12,6 @@ Curso de Biostatística oferecido pela ESIB/Instituto Butantan
   8. Testes não paramétricos
   9. Regressões e Causalidade
   10. Extra:
-    * matplotlib, seaborn, plotly
-    * exercícios
-    * aprendizado de máquina
+    10.1. matplotlib, seaborn, plotly
+    10.2. exercícios
+    10.3. aprendizado de máquina
