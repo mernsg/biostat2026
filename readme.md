@@ -2,6 +2,8 @@
 
 Curso de Biostatística oferecido pela ESIB/Instituto Butantan
 
+Professor: PhD Flavio Lichtenstein
+
 1. Ciência, Biologia e Medicina
 2. Estatística História + Notebook - Primeiros passos
 3. Variáveis Randômicas +  frequência, simetria, quartis, max-min, outliers e boxplots
