@@ -2,16 +2,16 @@
 
 Curso de Biostatística oferecido pela ESIB/Instituto Butantan
 
-  1. Ciência, Biologia e Medicina
-  2. Estatística História + Notebook - Primeiros passos
-  3. Variáveis Randômicas +  frequência, simetria, quartis, max-min, outliers e boxplots
-  4. Distribuições discretas
-  5. Distribuições contínuas
-  6. Teste de hipótese (introdução) + pandas
-  7. Testes paramétricos
-  8. Testes não paramétricos
-  9. Regressões e Causalidade
-  10. Extra:
-      10. matplotlib, seaborn, plotly
-      10. exercícios
-      10. aprendizado de máquina
+1. Ciência, Biologia e Medicina
+2. Estatística História + Notebook - Primeiros passos
+3. Variáveis Randômicas +  frequência, simetria, quartis, max-min, outliers e boxplots
+4. Distribuições discretas
+5. Distribuições contínuas
+6. Teste de hipótese (introdução) + pandas
+7. Testes paramétricos
+8. Testes não paramétricos
+9. Regressões e Causalidade
+10. Extra:
+    1. matplotlib, seaborn, plotly
+    2. exercícios
+    3. aprendizado de máquina
